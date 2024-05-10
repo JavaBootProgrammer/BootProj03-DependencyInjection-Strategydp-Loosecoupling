@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nit</groupId>
-	<artifactId>BootProj02-DependencyInjection-StrategyDP</artifactId>
+	<artifactId>BootProj03-DependencyInjection-StrategyDP-LooseCoupling</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BootProj02-DependencyInjection-StrategyDP</name>
+	<name>BootProj03-DependencyInjection-StrategyDP-LooseCoupling</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
