@@ -1,4 +1,4 @@
-package com.nt.sbeans;
+package com.vehicle.sbeans;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
